@@ -1,5 +1,5 @@
 ## Olá, meu nome é Vitor
-- Faço Sistemas de Informação na UFG;
+- Cursando Sistemas de Informação na UFG;
 - Atualmente estou estudando HTML, CSS e JavaScript.
 
  ##
